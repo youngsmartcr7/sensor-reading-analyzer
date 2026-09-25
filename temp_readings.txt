@@ -1,9 +1,7 @@
- Total Number of Readings: 3
- Total Readings 6.0
- Mean: 2.0
- Median: 2.0
- Minimum: 2.0
- Maximum: 2.0
-Out Of Range Readings: []
-count_by_classification: {'low': [2.0, 2.0, 2.0]}
-DateTime: 2026-09-18 18:33:19.412337
+Total readings: 10
+Mean: 21.9
+Median: 27.9
+Minimum: 1.0
+Maximum: 42.8
+By class: {'low': 4, 'normal': 4, 'high': 2}
+Anomalies: [9.7, 42.8, 3.2, 1.0]Generated: 2026-09-24 16:51:58
